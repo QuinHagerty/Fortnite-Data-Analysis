@@ -10,4 +10,4 @@ This project was inspired by my love of competitive gaming and drive to keep imp
 
 I am pulling my friends player data from Fortnite so I can see if he has been playing better week to week. I also want to look day to day within those weeks to see if he played better on a specific day and which day he plays the least.
 
-First I got an API key from TRN a fortnite tracking website. I used that with his account ID to pull his recent data.
+Under each section is a description of what the code is doing.
